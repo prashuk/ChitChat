@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837786740351-2j01pm5ou3humig26rlio33mmpbrem3q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837786740351-2j01pm5ou3humig26rlio33mmpbrem3q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1t-ddGbDKkT9cz5PaIgBFob2wBfxmnrE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837786740351</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.prashuk.ChitChat</string>
+	<key>PROJECT_ID</key>
+	<string>chitchat-new</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chitchat-new.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837786740351:ios:20df02169614e84d61414a</string>
+</dict>
+</plist>
